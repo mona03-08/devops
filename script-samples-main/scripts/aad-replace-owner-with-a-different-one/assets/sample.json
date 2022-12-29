@@ -1,0 +1,64 @@
+[
+  {
+    "schema": null,
+    "name": "aad-replace-owner-with-a-different-one",
+    "version": null,
+    "source": "pnp",
+    "title": "Replace an owner in a Microsoft 365 Group or Microsoft Team",
+    "url": "https://pnp.github.io/script-samples/aad-replace-owner-with-a-different-one/README.html",
+    "creationDateTime": "2021-05-04",
+    "updateDateTime": "2021-10-11",
+    "shortDescription": "Find all the Microsoft 365 Groups that a user is an Owner of and replace them with someone",
+    "longDescription": null,
+    "products": [
+      "AzureAD",
+      "Teams"
+    ],
+    "categories": [
+      "Configure",
+      "Security"
+    ],
+    "tags": [
+      "Microsoft 365 Groups",
+      "Microsoft Teams",
+      "Governance",
+      "Add-PnPMicrosoft365GroupOwner",
+      "Connect-PnPOnline",
+      "Disconnect-PnPOnline",
+      "Get-PnPMicrosoft365Group",
+      "Get-PnPMicrosoft365GroupOwner",
+      "Remove-PnPMicrosoft365Group",
+      "Remove-PnPMicrosoft365GroupOwner"
+    ],
+    "metadata": [
+      {
+        "key": "PNP-POWERSHELL",
+        "value": "1.5.0"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/script-samples/main/scripts/aad-replace-owner-with-a-different-one/assets/preview.png",
+        "alt": "preview image for the sample",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "reshmee011",
+        "company": "",
+        "pictureUrl": "https://avatars.githubusercontent.com/u/7693852?v=4",
+        "name": "Reshmee Auckloo"
+      }
+    ],
+    "references": [
+      {
+        "name": "Want to learn more about PnP PowerShell and the cmdlets",
+        "description": "Check out the PnP PowerShell site to get started and for the reference to the cmdlets.",
+        "url": "https://aka.ms/pnp/powershell"
+      }
+    ]
+  }
+]

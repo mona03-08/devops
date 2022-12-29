@@ -1,0 +1,57 @@
+[
+  {
+    "schema": null,
+    "name": "spo-hide-list-from-site-contents",
+    "version": null,
+    "source": "pnp",
+    "title": "Hide SharePoint list from Site Contents",
+    "url": "https://pnp.github.io/script-samples/spo-hide-list-from-site-contents/README.html",
+    "creationDateTime": "2020-08-23",
+    "updateDateTime": "2022-02-23",
+    "shortDescription": "Hide the SharePoint list from the UI this script will hide a specific list from the site contents",
+    "longDescription": null,
+    "products": [
+      "SharePoint"
+    ],
+    "categories": [
+      "Configure"
+    ],
+    "tags": [
+      "SharePoint Online",
+      "Hide List",
+      "Connect-PnPOnline",
+      "Get-PnPList",
+      "Set-PnPList"
+    ],
+    "metadata": [
+      {
+        "key": "PNP-POWERSHELL",
+        "value": "1.9.0"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/script-samples/main/scripts/spo-hide-list-from-site-contents/assets/preview.png",
+        "alt": "preview image for the sample",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "LeonArmston",
+        "company": "Intelogy",
+        "pictureUrl": "https://avatars.githubusercontent.com/u/12968962?v=4",
+        "name": "Leon Armston"
+      }
+    ],
+    "references": [
+      {
+        "name": "Want to learn more about PnP PowerShell and the cmdlets",
+        "description": "Check out the PnP PowerShell site to get started and for the reference to the cmdlets.",
+        "url": "https://aka.ms/pnp/powershell"
+      }
+    ]
+  }
+]

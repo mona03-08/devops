@@ -1,0 +1,57 @@
+[
+  {
+    "schema": null,
+    "name": "spo-empty-tenant-recyclebin",
+    "version": null,
+    "source": "pnp",
+    "title": "Empty the tenant recycle bin",
+    "url": "https://pnp.github.io/script-samples/spo-empty-tenant-recyclebin/README.html",
+    "creationDateTime": "2021-01-13",
+    "updateDateTime": "2022-01-24",
+    "shortDescription": "Script that removes sites from the tenant recycle bin",
+    "longDescription": null,
+    "products": [
+      "SharePoint"
+    ],
+    "categories": [
+      "Provision"
+    ],
+    "tags": [
+      "SharePoint Online",
+      "Clear-PnPTenantRecycleBinItem",
+      "Connect-PnPOnline",
+      "Get-PnPTenant",
+      "Get-PnPTenantRecycleBinItem"
+    ],
+    "metadata": [
+      {
+        "key": "PNP-POWERSHELL",
+        "value": "1.9.0"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/script-samples/main/scripts/spo-empty-tenant-recyclebin/assets/preview.png",
+        "alt": "preview image for the sample",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "LeonArmston",
+        "company": "Intelogy",
+        "pictureUrl": "https://avatars.githubusercontent.com/u/12968962?v=4",
+        "name": "Leon Armston"
+      }
+    ],
+    "references": [
+      {
+        "name": "Want to learn more about PnP PowerShell and the cmdlets",
+        "description": "Check out the PnP PowerShell site to get started and for the reference to the cmdlets.",
+        "url": "https://aka.ms/pnp/powershell"
+      }
+    ]
+  }
+]

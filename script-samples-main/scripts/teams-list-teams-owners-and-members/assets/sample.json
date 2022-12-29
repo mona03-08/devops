@@ -1,0 +1,60 @@
+[
+  {
+    "schema": null,
+    "name": "teams-list-teams-owners-and-members",
+    "version": null,
+    "source": "pnp",
+    "title": "List all Microsoft Teams team's Owners and Members",
+    "url": "https://pnp.github.io/script-samples/teams-list-teams-owners-and-members/README.html",
+    "creationDateTime": "2021-03-20",
+    "updateDateTime": "2021-10-11",
+    "shortDescription": "This script allows you to list all Teams team's owners and members and export them into a CSV file.",
+    "longDescription": null,
+    "products": [
+      "Teams"
+    ],
+    "categories": [
+      "Report",
+      "Security"
+    ],
+    "tags": [
+      "Microsoft Teams",
+      "Governance",
+      "Connect-PnPOnline",
+      "Disconnect-PnPOnline",
+      "Get-PnPMicrosoft365Group",
+      "Get-PnPMicrosoft365GroupMember",
+      "Get-PnPMicrosoft365GroupOwner"
+    ],
+    "metadata": [
+      {
+        "key": "PNP-POWERSHELL",
+        "value": "1.5.0"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/script-samples/main/scripts/teams-list-teams-owners-and-members/assets/preview.png",
+        "alt": "preview image for the sample",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "reshmee011",
+        "company": "",
+        "pictureUrl": "https://avatars.githubusercontent.com/u/7693852?v=4",
+        "name": "Reshmee Auckloo"
+      }
+    ],
+    "references": [
+      {
+        "name": "Want to learn more about PnP PowerShell and the cmdlets",
+        "description": "Check out the PnP PowerShell site to get started and for the reference to the cmdlets.",
+        "url": "https://aka.ms/pnp/powershell"
+      }
+    ]
+  }
+]

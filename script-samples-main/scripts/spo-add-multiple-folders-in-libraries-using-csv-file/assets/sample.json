@@ -1,0 +1,54 @@
+[
+  {
+    "schema": null,
+    "name": "spo-add-multiple-folders-in-libraries-using-csv-file",
+    "version": null,
+    "source": "pnp",
+    "title": "Add multiple folders in libraries using a csv file",
+    "url": "https://pnp.github.io/script-samples/spo-add-multiple-folders-in-libraries-using-csv-file/README.html",
+    "creationDateTime": "2021-05-10",
+    "updateDateTime": "2022-06-29",
+    "shortDescription": "This script will create the folders (not nested) into the libraries provided in the .csv file.",
+    "longDescription": null,
+    "products": [
+      "SharePoint"
+    ],
+    "categories": [
+      "Data"
+    ],
+    "tags": [
+      "SharePoint Online",
+      "Governance"
+    ],
+    "metadata": [
+      {
+        "key": "PNP-POWERSHELL",
+        "value": "1.10.0"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/script-samples/main/scripts/spo-add-multiple-folders-in-libraries-using-csv-file/assets/preview.png",
+        "alt": "preview image for the sample",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "Jitenparmar",
+        "company": "",
+        "pictureUrl": "https://avatars.githubusercontent.com/u/7124132?v=4",
+        "name": "Jiten Parmar"
+      }
+    ],
+    "references": [
+      {
+        "name": "Want to learn more about PnP PowerShell and the cmdlets",
+        "description": "Check out the PnP PowerShell site to get started and for the reference to the cmdlets.",
+        "url": "https://aka.ms/pnp/powershell"
+      }
+    ]
+  }
+]

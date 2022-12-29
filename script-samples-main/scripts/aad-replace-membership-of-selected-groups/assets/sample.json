@@ -1,0 +1,66 @@
+[
+  {
+    "schema": null,
+    "name": "aad-replace-membership-of-selected-groups",
+    "version": null,
+    "source": "pnp",
+    "title": "Replace a user's membership in selected Microsoft 365 Groups or Teams",
+    "url": "https://pnp.github.io/script-samples/aad-replace-membership-of-selected-groups/README.html",
+    "creationDateTime": "2021-05-04",
+    "updateDateTime": "2022-01-19",
+    "shortDescription": "Replace the membership of a user for a selected list of Groups",
+    "longDescription": null,
+    "products": [
+      "AzureAD",
+      "Teams"
+    ],
+    "categories": [
+      "Configure",
+      "Security"
+    ],
+    "tags": [
+      "Microsoft 365 Groups",
+      "Microsoft Teams",
+      "Governance",
+      "Add-PnPMicrosoft365GroupMember",
+      "Add-PnPMicrosoft365GroupOwner",
+      "Connect-PnPOnline",
+      "Get-PnPMicrosoft365Group",
+      "Get-PnPMicrosoft365GroupMember",
+      "Get-PnPMicrosoft365GroupOwner",
+      "Remove-PnPMicrosoft365Group",
+      "Remove-PnPMicrosoft365GroupMember",
+      "Remove-PnPMicrosoft365GroupOwner"
+    ],
+    "metadata": [
+      {
+        "key": "PNP-POWERSHELL",
+        "value": "1.9.0"
+      }
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://raw.githubusercontent.com/pnp/script-samples/main/scripts/aad-replace-membership-of-selected-groups/assets/preview.png",
+        "alt": "preview image for the sample",
+        "slides": null
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "reshmee011",
+        "company": "",
+        "pictureUrl": "https://avatars.githubusercontent.com/u/7693852?v=4",
+        "name": "Reshmee Auckloo"
+      }
+    ],
+    "references": [
+      {
+        "name": "Want to learn more about PnP PowerShell and the cmdlets",
+        "description": "Check out the PnP PowerShell site to get started and for the reference to the cmdlets.",
+        "url": "https://aka.ms/pnp/powershell"
+      }
+    ]
+  }
+]
